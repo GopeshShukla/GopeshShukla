@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GopeshShukla
 - 👀 I’m interested in web development,data science,programming,acting,poetry,story writing and debates.
-- 🌱 I’m currently learning MERN full stack,DSA,Data Science.
+- 🌱 I’m currently learning AI, ML, Python, Data Science.
 - 📫 How to reach me :-Mail on :- mgshukla2003@gmail.com.
 
 
